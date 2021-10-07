@@ -1,1 +1,1 @@
-Tictactoe with Java
+Tictactoe with Java and GUI
